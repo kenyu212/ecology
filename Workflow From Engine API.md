@@ -134,7 +134,7 @@ window.open (viewUrl +"& returnUrl="+window.encodeURIComponent "/test.jsp?param1
 |WfForm.OPER_DELROW	|Delete the line and spell the list number	||
 |WfForm.OPER_PRINTPREVIEW	|Print Preview	|KB900190501|
 |WfForm.OPER_EDITDETAILROW|	Mobile - Edit Details	|KB900191101|
-|WfForm.OPER_BEFOREVERIFY	|Check pre-fill trigger event	|KB900191201|
+|WfForm.OPER_BEFOREVERIFY	|Events before system standard mandatory fields validation	|KB900191201|
 
 Interface name and parameter description 
 > registerCheckEvent：function (type, fun)
